@@ -1,0 +1,27 @@
+.calculatorBox {
+  background-color: #cadf7a;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.calculateButton{
+
+  padding: 10px;
+  cursor: pointer;
+      align-items: center;
+background-color: #5bc7d6;
+color: #0a3253;
+border-radius: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+transition-duration: 0.4s;
+
+}
+
+
+.calculateButton:hover {
+  background-color: #cadf7a;
+  color: #0a3253;
+}
+
